@@ -26,7 +26,6 @@ export default {
         phase: this.trial.phase,
         condition: this.trial.condition,
         utterance: this.trial.utterance,
-        image: this.trial.image,
         grey_cell: this.trial.greyCell,
         correct_answer: this.trial.correctAnswer,
         response: answer,
